@@ -1,0 +1,11 @@
+{
+  "name": "backlight",
+  "version": "1.0.0",
+  "description": "XBacklight alternative",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "bin": {
+    "backlight": "bin/backlight.js"
+  }
+}
