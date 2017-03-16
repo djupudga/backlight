@@ -64,10 +64,10 @@ function assertCmd(cmd) {
 function usage() {
 	console.log(`
 Usage:
-	xbright command
+	backlight [COMMAND]
 
-command:
+COMMAND:
 	inc   Increase bightness by 5%
 	dec   Decrease brightness by 5%
 `) // eslint-disable-line
-	}
+}
